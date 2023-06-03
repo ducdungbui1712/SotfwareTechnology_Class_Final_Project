@@ -2,6 +2,9 @@
 ## My project's score: 
 * Score: 8/10
 
+# Topic of project
+* https://drive.google.com/file/d/1nDWg32V2jq0Gz7fqFhR9yhctA04VHxD3/view?usp=sharing
+
 # Demo of Application
 * Please down demo.mp4 file from link ggdrive below to see what the app looks like and how it works.
 * https://drive.google.com/file/d/1CoRZSvPQ20lyTG4ch0S7EKOPk6eA7hbZ/view?usp=share_link

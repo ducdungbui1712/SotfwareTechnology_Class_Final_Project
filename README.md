@@ -13,10 +13,11 @@
 
 How to run source code?
 - Extract sourceCode.zip folder
+- Open SQL Server Management Studio, create database [Final_Project]
 - Import database: [Final_Project.sql] (data included)
 - Open Final_Project.sln in Visual Studio
-- Edit connectionString in [Web.config] in [Final] folder
-- Edit connectionString in [App.config] in [Final_Project] folder
+- Edit connectionString in [Web.config] in [Final] folder to connect to database
+- Edit connectionString in [App.config] in [Final_Project] folder to connect to database
 
 
 MVC Web will be located in the [Final] folder
